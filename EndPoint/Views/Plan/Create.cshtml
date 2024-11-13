@@ -1,0 +1,42 @@
+﻿@model Plan
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Person</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                <fieldset class="form-group">
+                    <label for="basicInput">Which Time </label>
+                    <select name="Time" asp-items="@Html.GetEnumSelectList<Time>()"></select>
+                </fieldset>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                <fieldset class="form-group">
+
+                    <label for="basicInput">Which Day </label>
+                    <select name="Day of the week" asp-items="@Html.GetEnumSelectList<Day>()"></select>
+                </fieldset>
+            </div>
+            <div class="form-group">
+                <label asp-for="Detail" class="control-label"></label>
+                <input asp-for="Detail" class="form-control" />
+                <span asp-validation-for="Detail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

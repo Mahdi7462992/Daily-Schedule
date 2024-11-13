@@ -1,0 +1,111 @@
+﻿@model List<Plan>
+
+@{
+    ViewBag.Title = "Index";
+}
+<p>
+    @Html.ActionLink("Create", "Create")
+</p>
+@*<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Family)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.website)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Family)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.website)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PersonID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PersonID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PersonID })
+        </td>
+    </tr>
+}
+
+</table>*@
+<div class="table100 ver3 m-b-110">
+
+    <table data-vertable="ver2">
+        @*  <thead>
+        <tr class="row100 head">
+        <th class="column100 column1" data-column="column1"> @Html.DisplayNameFor(model => model.Name)</th>
+        <th class="column100 column2" data-column="column2"> @Html.DisplayNameFor(model => model.Family)</th>
+        <th class="column100 column3" data-column="column3"> @Html.DisplayNameFor(model => model.website)</th>
+        <th class="column100 column3" data-column="column3">Change Info </th>
+        </tr>
+        </thead> *@
+
+        <thead>
+           
+            <tr class="row100 head">
+                <th></th>
+                @foreach (var item in Model)
+                {
+                <th>@item.Time </th>
+                }
+                <th>Change Info</th>
+            </tr>
+             
+            <tr class="row100 head">
+                <th class="column100 column1" data-column="column1"> Saturday</th>
+                @foreach (var item in Model)
+                {
+                    <td>@item.Day </td>
+                }
+            </tr>
+                
+            <tr class="row100 head">
+                <th class="column100 column2" data-column="column2"> Sunday</th>
+            </tr>
+            <tr class="row100 head">
+                <th class="column100 column3" data-column="column3"> Monday</th>
+            </tr>
+            <tr class="row100 head">
+                <th class="column100 column4" data-column="column4"> Thuesday</th>
+            </tr>
+            <tr class="row100 head">
+                <th class="column100 column5" data-column="column5"> Wednesday</th>
+            </tr>
+            <tr class="row100 head">
+                <th class="column100 column6" data-column="column6"> Thurseday</th>
+            </tr>
+            <tr class="row100 head">
+                <th class="column100 column7" data-column="column7"> Friday</th>
+            </tr>
+            
+        </thead>
+
+        @*   <tbody>
+        @foreach (var item in Model)
+        {
+        <tr class="row100">
+        <td class="column100 column1" data-column="column1">  @Html.DisplayFor(modelItem => item.Name)</td>
+        <td class="column100 column1" data-column="column1">  @Html.DisplayFor(modelItem => item.Family)</td>
+        <td class="column100 column1" data-column="column1">  @Html.DisplayFor(modelItem => item.website) </td>
+        <td class="column100 column1" data-column="column1">
+        @Html.ActionLink("Edit", "Edit", new { id = item.PersonID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.PersonID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.PersonID })
+        </td>
+        </tr>
+        }
+        </tbody> *@
+    </table>
+</div>
