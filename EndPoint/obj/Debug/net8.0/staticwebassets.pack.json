@@ -1,335 +1,335 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndPoint.bundle.scp.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndPoint.bundle.scp.css",
       "PackagePath": "staticwebassets\\EndPoint.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\Site.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\Site.css",
       "PackagePath": "staticwebassets\\Content\\Site.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\css\\main.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\css\\main.css",
       "PackagePath": "staticwebassets\\Content\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\css\\util.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\css\\util.css",
       "PackagePath": "staticwebassets\\Content\\css\\util.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\montserrat\\Montserrat-Medium.ttf",
       "PackagePath": "staticwebassets\\Content\\fonts\\montserrat\\Montserrat-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\fonts\\montserrat\\Montserrat-Regular.ttf",
       "PackagePath": "staticwebassets\\Content\\fonts\\montserrat\\Montserrat-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\images\\icons\\favicon.ico",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\images\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\Content\\images\\icons\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\js\\main.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\js\\main.js",
       "PackagePath": "staticwebassets\\Content\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\animate\\animate.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\animate\\animate.css",
       "PackagePath": "staticwebassets\\Content\\vendor\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Content\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Content\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\bootstrap\\js\\popper.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\bootstrap\\js\\popper.js",
       "PackagePath": "staticwebassets\\Content\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\jquery\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\Content\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\Content\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\select2\\select2.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\select2\\select2.min.css",
       "PackagePath": "staticwebassets\\Content\\vendor\\select2\\select2.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\select2\\select2.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\Content\\vendor\\select2\\select2.min.js",
       "PackagePath": "staticwebassets\\Content\\vendor\\select2\\select2.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

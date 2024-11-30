@@ -7,5 +7,10 @@ namespace EndPoint.Models.Frameworks.Contract
     {
         Task<List<Plan>> Select();
         Task Insert(Plan plan);
+        Task Delete(Plan plan);
+        Task Delete(long id);
+        Task<List<Plan>> Update(Plan plan);
+        Task<Plan> GetByIdAsync(long id);
+        Task<List<Plan>> GetByDayAsync(DayOfWeek day);
     }
 }

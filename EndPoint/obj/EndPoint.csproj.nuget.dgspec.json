@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\EndPoint.csproj": {}
+    "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\EndPoint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\EndPoint.csproj": {
+    "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\EndPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\EndPoint.csproj",
+        "projectUniqueName": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\EndPoint.csproj",
         "projectName": "EndPoint",
-        "projectPath": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\EndPoint.csproj",
+        "projectPath": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\EndPoint.csproj",
         "packagesPath": "C:\\Users\\Technic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Technic\\Desktop\\Daily-Routine\\EndPoint\\obj\\",
+        "outputPath": "C:\\Users\\Technic\\Desktop\\تمرینات کلاس\\Daily-Routine\\EndPoint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Technic\\AppData\\Roaming\\NuGet\\NuGet.Config",

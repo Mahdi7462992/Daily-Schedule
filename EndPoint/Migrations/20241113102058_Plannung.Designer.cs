@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EndPoint.Migrations
 {
     [DbContext(typeof(PlanDbContext))]
-    [Migration("20241112091734_Plannung")]
+    [Migration("20241113102058_Plannung")]
     partial class Plannung
     {
         /// <inheritdoc />

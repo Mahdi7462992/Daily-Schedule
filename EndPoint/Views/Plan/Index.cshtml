@@ -2,6 +2,8 @@
 
 @{
     ViewBag.Title = "Index";
+    var times = Model.Select(m => m.Time).Distinct().OrderBy(t => t);
+    var days = Enum.GetValues(typeof(DayOfWeek)).Cast<DayOfWeek>();
 }
 <p>
     @Html.ActionLink("Create", "Create")
@@ -40,10 +42,8 @@
 }
 
 </table>*@
-<div class="table100 ver3 m-b-110">
 
-    <table data-vertable="ver2">
-        @*  <thead>
+@*  <thead>
         <tr class="row100 head">
         <th class="column100 column1" data-column="column1"> @Html.DisplayNameFor(model => model.Name)</th>
         <th class="column100 column2" data-column="column2"> @Html.DisplayNameFor(model => model.Family)</th>
@@ -52,47 +52,53 @@
         </tr>
         </thead> *@
 
+<div class="table100 ver3 m-b-110">
+    <table data-vertable="ver2">
         <thead>
-           
             <tr class="row100 head">
-                <th></th>
-                @foreach (var item in Model)
+                <th>Day/Time</th>
+                @foreach (var time in times)
                 {
-                <th>@item.Time </th>
+                    <th>@time</th>
                 }
                 <th>Change Info</th>
             </tr>
-             
-            <tr class="row100 head">
-                <th class="column100 column1" data-column="column1"> Saturday</th>
-                @foreach (var item in Model)
-                {
-                    <td>@item.Day </td>
-                }
-            </tr>
-                
-            <tr class="row100 head">
-                <th class="column100 column2" data-column="column2"> Sunday</th>
-            </tr>
-            <tr class="row100 head">
-                <th class="column100 column3" data-column="column3"> Monday</th>
-            </tr>
-            <tr class="row100 head">
-                <th class="column100 column4" data-column="column4"> Thuesday</th>
-            </tr>
-            <tr class="row100 head">
-                <th class="column100 column5" data-column="column5"> Wednesday</th>
-            </tr>
-            <tr class="row100 head">
-                <th class="column100 column6" data-column="column6"> Thurseday</th>
-            </tr>
-            <tr class="row100 head">
-                <th class="column100 column7" data-column="column7"> Friday</th>
-            </tr>
-            
         </thead>
+        <tbody>
+            @foreach (var day in days)
+            {
+                <tr class="row100">
+                    <th class="column100">@day</th>
+                    @foreach (var time in times)
+                    {
+                        var plan = Model.FirstOrDefault(p => p.DayOfWeek == day && p.Time == time);
+                        <td>
+                            @if (plan != null)
+                            {
+                                @plan.Detail
+                            }
+                        </td>
+                    }
 
-        @*   <tbody>
+                    <td>
+                        @{
+                            var firstPlan = Model.FirstOrDefault(p => p.DayOfWeek == day);
+                        }
+
+                        @if (firstPlan != null)
+                        {
+                            @Html.ActionLink("Edit All", "Update", new { day = day }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Delete", "Delete", new { id = firstPlan.Id }, new { @class = "btn btn-danger" })
+                            @Html.ActionLink("Details", "Details", new { day = day }, new { @class = "btn btn-info" })
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@*   <tbody>
         @foreach (var item in Model)
         {
         <tr class="row100">
@@ -107,5 +113,3 @@
         </tr>
         }
         </tbody> *@
-    </table>
-</div>
